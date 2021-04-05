@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617622009 source:c:\users\alexa\onedrive\documents\github\projet-piscine\tp5_alix-alexandra\tp5_alexandra\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<fstream>
+	<queue>
+
